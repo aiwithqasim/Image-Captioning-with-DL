@@ -18,7 +18,7 @@ __Notebook 1__ : Setting up the Project and verify the Dataset and the `Model`
 
 ## Loss graph
 
-![Loss Graph](https://raw.githubusercontent.com/darkmatter18/Udacity-Computer-Vision-Nanodegree/master/images/loss-graph-2.png)
+![Loss Graph](./images/loss-graph-2.png)
 
 # Project Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
